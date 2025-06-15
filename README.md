@@ -19,5 +19,5 @@ It showcases a modern online store layout with product listings, a shopping cart
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, React Router
-- **Styling:** CSS / TailwindCSS (if used)
+- **Styling:** CSS / TailwindCSS
 - **Deployment:** Vercel
